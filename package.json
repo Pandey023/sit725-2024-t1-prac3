@@ -1,0 +1,22 @@
+{
+  "name": "3.2p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pandey023/sit725-2024-t1-prac3.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pandey023/sit725-2024-t1-prac3/issues"
+  },
+  "homepage": "https://github.com/Pandey023/sit725-2024-t1-prac3#readme",
+  "dependencies": {
+    "express": "^4.19.1"
+  }
+}
